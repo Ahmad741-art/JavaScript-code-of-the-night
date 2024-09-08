@@ -1,1 +1,1 @@
-# JavaScript-code-of-the-night
+# JavaScript-code-of-the-nigh
